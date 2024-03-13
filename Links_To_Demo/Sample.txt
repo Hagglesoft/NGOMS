@@ -1,1 +1,0 @@
-This site is demo to NGO/Loan Management Solution -> [NMS_APP](https://nms.hagglesoft.com/).
